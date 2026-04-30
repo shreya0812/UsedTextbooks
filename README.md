@@ -9,7 +9,7 @@ Frontend
 
 Backend
 - Spring Boot
-- MySQL
+- PostgresSQL
 
 Architecture
 - Microservices
